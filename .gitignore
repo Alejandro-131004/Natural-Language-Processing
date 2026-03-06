@@ -1,3 +1,4 @@
 nlp_env
 data
 models
+*.pkl

@@ -1,4 +1,4 @@
 nlp_env
 data
-models
+artifacts
 *.pkl

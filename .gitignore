@@ -2,3 +2,4 @@ nlp_env
 data
 artifacts
 *.pkl
+Project.ipynb

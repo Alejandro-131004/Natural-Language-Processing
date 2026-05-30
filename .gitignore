@@ -4,4 +4,11 @@ artifacts
 *.pkl
 Project.ipynb
 images
-artifacts.zip
+distilbert-da-phishing
+distilbert-lora-baseline
+distilbert-lora-phishing
+models
+roberta-lora-baseline
+roberta-lora-phishing
+tmp_trainer
+Project_2_backup.ipynb
